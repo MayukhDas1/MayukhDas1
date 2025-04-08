@@ -34,3 +34,6 @@
 [![](https://visitcount.itsvg.in/api?id=MayukhDas1&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@MayukhDas/30-nites-of-code)  
+  ![@MayukhDas #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MayukhDas)
