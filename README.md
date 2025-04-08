@@ -1,13 +1,12 @@
 ## HI, I'M MAYUKH 👋🧑🏻
 
-🧠 Bachelor of Computer Application(☠️💀)<br/>
-👾 Full Stack Developer...🔥🏃🏻<br/>
-🐍 Python Developer...🤺🧟<br/>
-🙆🏻 Java Developer...🤯🦊<br/>
-🏃🏻 BlockChain Developer...🐺🤯<br/>
-🐦‍🔥 AI Learner...⚡🤖<br/>
-🧛🏻‍♀️ Night Coding...🦉⛷️<br/>
-............................👽😈👹👺
+  Bachelor of Computer Application🧠(☠️💀)<br/>
+  Full Stack Developer...👾🏃🏻<br/>
+  Python Developer...🐍🧟<br/>
+  Java Developer...🙆🏻🤯<br/>
+  BlockChain Developer...🏃🏻🐺<br/>
+  AI Learner...🐦‍🔥🤖<br/>
+  Night Coding...🧛🏻‍♀️🦉<br/>
 
 
 
@@ -20,6 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=MayukhDas1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MayukhDas1&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayukhDas1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@MayukhDas/30-nites-of-code)  
+  ![@MayukhDas #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MayukhDas)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MayukhDas1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
@@ -34,6 +37,3 @@
 [![](https://visitcount.itsvg.in/api?id=MayukhDas1&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@MayukhDas/30-nites-of-code)  
-  ![@MayukhDas #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MayukhDas)
