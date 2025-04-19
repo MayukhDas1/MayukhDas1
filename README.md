@@ -4,9 +4,9 @@
   Full Stack Developer...👾🏃🏻<br/>
   Python Developer...🐍🧟<br/>
   Java Developer...🙆🏻🤯<br/>
-  BlockChain Developer...🏃🏻🐺<br/>
-  AI Learner...🐦‍🔥🤖<br/>
-  Robotics Engineering...🧛🏻‍♀️🦉<br/>
+  BlockChain Developer...🐺<br/>
+  AI Learner...🐦‍🔥<br/>
+  Robotics Engineering...🤖<br/>
 
 
 
